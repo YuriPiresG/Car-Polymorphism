@@ -1,0 +1,1 @@
+# This project is related to Polymorphism in java, where i created a class called CarPoly and gave it a couple of fields and then extended it to another two classes: Fusca and McLaren. I used the methods from CarPoly and overrided it so it will change the car to the class name.
